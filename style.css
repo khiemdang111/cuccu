@@ -1,0 +1,13 @@
+.thumb-active {
+  border: 3px solid #d9ff00;
+  opacity: 1 !important;
+}
+
+.swiper-button-next,
+.swiper-button-prev {
+  color: white;
+  transform: scale(0.7);
+}
+.custom-swiper-slide-thumb-active {
+  width: 110px !important;
+}
