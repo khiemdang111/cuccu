@@ -1,3 +1,7 @@
+body {
+ font-family: 'Helvetica Neue', sans-serif;
+/* font-weight: 700; */
+}
 .thumb-active {
   border: 3px solid #d9ff00;
   opacity: 1 !important;
